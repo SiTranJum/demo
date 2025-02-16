@@ -8,6 +8,10 @@
     "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1"
   },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
